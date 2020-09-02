@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Ninjars/Ninjars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hello!
+I'm Jez (he/him). 
+
+I'm an Android developer by trade, but here I mostly have indulged in exploring games and interactive experiences beyond the Android framework, primarily with Unity.
+
+My more recent projects have been made private so unfortunately my public profile is a little bit barren, but you can find a chronicling of the outcomes [over on my website here](https://jeremystevens.net).
